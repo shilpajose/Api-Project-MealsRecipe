@@ -138,4 +138,8 @@ h3 {
     .container {
         font-size: 14px;
     }
+
+    .search-container input {
+        font-size: 0.5em;
+    }
 }

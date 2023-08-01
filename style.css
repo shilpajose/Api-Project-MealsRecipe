@@ -133,6 +133,12 @@ h3 {
     margin-top: 1.8em;
     color: red;
 }
+h4{
+    font-size: 25px;
+    color: #266691;
+    margin-bottom: 7px;
+    font-family: 'Times New Roman', Times, serif;
+}
 
 @media screen and (max-width: 500px) {
     .container {
@@ -141,5 +147,8 @@ h3 {
 
     .search-container input {
         font-size: 0.5em;
+    }
+    h4{
+        font-size: 15px;
     }
 }

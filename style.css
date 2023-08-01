@@ -147,7 +147,7 @@ h4 {
     }
 
     .search-container input {
-        font-size: 0.5em;
+        font-size: 0.8em;
     }
 
     h4 {
@@ -155,5 +155,8 @@ h4 {
         color: #266691;
         margin-bottom: 7px;
         font-family: 'Times New Roman', Times, serif;
+    }
+    .search-container button {
+        font-size: 11px;
     }
 }
